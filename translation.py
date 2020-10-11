@@ -23,7 +23,7 @@ class Translation(object):
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply To An File With /rename fil name extension To rename a file</b>"
     REPLY_TO_DOC_FOR_C2V = "<b> Please Reply To An File With /c2v To Convert It Into Streamable video File</b>"
     REPLY_TO_DOC_FOR_C2A = "<b> Please Reply To An File/video With /c2a To Convert It Into Audio File</b>"
-    CUSTOM_CAPTION_UL_FILE = " "
+    CUSTOM_CAPTION_UL_FILE = "<b>{}</b> \n\n@Super_botz"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Thumbnail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
