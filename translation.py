@@ -16,7 +16,7 @@ on(object):
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Tamil_Bots  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @Tamil_Bots_Support "
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @super_botz_support "
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Tamil_Bots_support "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /deletethumbnail ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
@@ -28,11 +28,11 @@ on(object):
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Thumbnail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
-    ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Join @Super_botz If You Found Meh Useful</b>"""
+    ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Join @Tamil_Bots If You Found Meh Useful</b>"""
     HELP_USER = """Ohh You Want Help?? 😅
     
 1.🔹 <b>Send me any Telegram File.</b> \n
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
-4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @Super_botz</b>"""
+4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @Tamil_Bots</b>"""
 
