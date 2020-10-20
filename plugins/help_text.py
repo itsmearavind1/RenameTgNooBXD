@@ -70,12 +70,12 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Super_botz'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/super_botz_support')
+                    InlineKeyboardButton('Support Channel', url='https://t.me/Tamil_Bots'),
+                    InlineKeyboardButton('Feedback', url='https://t.me/Tamil_Bots_Support')
                 ],
                 [
-                    InlineKeyboardButton('Leech Group', url='https://t.me/leech_group'),
-                    InlineKeyboardButton('Movies Channel', url='https://t.me/joinchat/AAAAAE6IDWZirGOn3k2D0w')
+                    InlineKeyboardButton('Leech Group', url='https://t.me/Tamil_Torrent_Leech'),
+                    InlineKeyboardButton('Movies Channel', url='https://t.me/Tamil_LinkzZ')
                 ]
             ]
         ),
